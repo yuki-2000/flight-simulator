@@ -1,2 +1,2 @@
 # flight-simulator
-飛行機の運動をシミュレートするPythonプログラウ
+飛行機の運動をシミュレートするPythonプログラム
